@@ -1,0 +1,3 @@
+rootProject.name = 'killi_app'
+
+include ':app'
